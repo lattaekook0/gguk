@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+.container{
+  background: url(l.jpg);
+  height: 100vh;
+  background-size: 100½ 100½
+}
+.container .navbar{
+    width:100½;
+    height:80px;
+    background:rgba(253, 210, 232)
+}
+
+.navbar .taegram{
+    display: inline-block;
+    margin-left:50px
+    margin-top:30px
+}
+
+.navbar ul{
+    float: right;
+margin-right:20px;
+}
+
+body{
+    background-repeat: no-repeat;
+}
